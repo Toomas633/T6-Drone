@@ -15,6 +15,3 @@ Monero: `8Ajf5M6meNpL9TaHuDRbXjAH31LcQ9ge5BEiwMZjLaoiMDZRxaVy19FgbP4tbUKpKoeq1kq
 Bitcoin: `3NPFV9ivECdSgyCXeNk4h5Gm3q1xiDRnPV`
 
 More options on https://toomas633.com/donate.html
-
-## Licence
-CERN Open Hardware Licence Version 2 - Strongly Reciprocal
