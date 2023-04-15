@@ -10,7 +10,7 @@ I used INAV on my boar and the config cli files  as well as a hex file for MATEK
 Due to the size of the prop guard stl file, it can only be found in at Thingiverse or in regular 3D design (.par) form under v0.2 MISC folder.
 
 ## Donate
-Monero: `8Ajf5M6meNpL9TaHuDRbXjAH31LcQ9ge5BEiwMZjLaoiMDZRxaVy19FgbP4tbUKpKoeq1kqCvjyaTdmCMQGhekWoQ2KgVeV`
+Monero: `46b9jWCbtfDEGibADKG5uqL12r8RDohm1ZjkSK2ZW3T3gTsUYSPGpvu5fvhJZjuBGRbN8HnKWc8T6RFvzuUxTQjFF5osdeP`
 
 Bitcoin: `3NPFV9ivECdSgyCXeNk4h5Gm3q1xiDRnPV`
 
